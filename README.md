@@ -16,6 +16,8 @@ Pictures from the project:
 
 ![image](https://user-images.githubusercontent.com/84518155/229372526-4ee77baa-79bd-42e8-9046-b09439cce2d4.png)
 
+![image](https://user-images.githubusercontent.com/84518155/229372674-a8174abf-055c-4929-950d-9a225a7d911b.png)
+
 ![image](https://user-images.githubusercontent.com/84518155/229372537-98e6e8fc-f18c-4248-8b86-da1c6729c19b.png)
 
 ![image](https://user-images.githubusercontent.com/84518155/229372545-ebc934d4-2f60-458c-a72f-3948eb219019.png)
